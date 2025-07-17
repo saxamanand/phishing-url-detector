@@ -23,7 +23,7 @@ A machine learning-powered web application that detects phishing URLs by analyzi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/phishing-url-detector.git
+git clone https://github.com/saxamanand/phishing-url-detector.git
 cd phishing-url-detector
 ```
 
