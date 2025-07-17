@@ -1,0 +1,9 @@
+# Copy this content to create .streamlit/config.toml file
+
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+base = "light"
